@@ -9,6 +9,7 @@ An Web3.0 site where you can send requests via Smart Contract for Request or Don
 ## Techs 🔧
 - Backend: [Solidity](https://soliditylang.org/) | [NextJS](https://nextjs.org/)
 - Frontend: [ReactJS](https://react.dev/)
+-  UI/UX: [Bootstrap](https://getbootstrap.com/)
 - Test Enviroment / Deploy : [Remix - Ethereum IDE](https://remix.ethereum.org/) | [Metamask](https://metamask.io/)
 
 ## Learning 📕📗
